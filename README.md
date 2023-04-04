@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6ohn5spo0ke0rw90?svg=true)](https://ci.appveyor.com/project/Ir-inka/api-testing)
